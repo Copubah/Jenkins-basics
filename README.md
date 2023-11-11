@@ -34,3 +34,5 @@ Check Jenkins status:
 
 Access Jenkins:
 Open your web browser and go to http://localhost:8080 or http://your-server-ip:8080. Follow the on-screen instructions to complete the setup.
+
+
