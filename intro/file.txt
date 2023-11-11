@@ -1,9 +1,7 @@
 Jenkins is an automation platform that helps one to build,test and deploy software,while there are
 newer CI/CD solutions like CircleCI and Github Actions,Jenkins still remains one of the most widely used
-
 Jenkins infrastructure has a master server that controls the pipelines and schedules builds and then we have
 the agents/minions that perform the build,in the infrastructure we have 2 main types of Jenkins agents that is
 Permanent agents;dedicated servers for running jobs either in Linux or Windows servers configured to run
 jobs(Java needs to be installed and have SSH setup,built tools)
-
 Cloud agents are much more popular and are set up on demand like Docker,Kubernetes and AWS flip manager
